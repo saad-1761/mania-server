@@ -1,0 +1,130 @@
+[
+  {
+    "id": "5c8b32e7-cba3-40a0-9afd-938b44ff87dc",
+    "name": "Omega Watch",
+    "price": 3000,
+    "shortDescription": "Premium Product ",
+    "longDescription": "A product from omega with ocean blue dial",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=1180&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "p1",
+    "name": "Mania Gentleman Steel",
+    "price": 1899,
+    "shortDescription": "Classic steel strap for everyday elegance.",
+    "longDescription": "A refined steel chronograph-inspired design with comfortable links, minimal dial, and a premium finish. Built for daily wear and formal occasions. Crisp readability, premium polish, and a balanced silhouette.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&q=80"
+  },
+  {
+    "id": "p2",
+    "name": "Mania Leather Midnight",
+    "price": 1599,
+    "shortDescription": "Smooth leather strap with bold dial contrast.",
+    "longDescription": "Midnight dial with crisp markers and a premium leather strap that softens over time. Designed for comfort and style through long days.",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=1400&q=80"
+  },
+  {
+    "id": "p3",
+    "name": "Mania Chrono Pro",
+    "price": 2199,
+    "shortDescription": "Sporty chrono look with premium finishing.",
+    "longDescription": "Sport-forward chronograph aesthetic with durable construction and clean time readability. Great for casual-to-smart outfits.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1400&q=80"
+  },
+  {
+    "id": "p4",
+    "name": "Mania Minimal Onyx",
+    "price": 1399,
+    "shortDescription": "Clean dial. Bold presence.",
+    "longDescription": "Minimal watch with strong readability and a premium look. Designed to pair with everything — office, casual, weekend.",
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=1400&q=80"
+  },
+  {
+    "id": "p5",
+    "name": "Mania Classic Silver",
+    "price": 1499,
+    "shortDescription": "Elegant silver tone with modern detailing.",
+    "longDescription": "Polished finishes and balanced proportions make this a timeless daily watch. Great for gifting and formal wear.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&q=80"
+  },
+  {
+    "id": "p6",
+    "name": "Mania Heritage Leather",
+    "price": 1699,
+    "shortDescription": "Comfort leather strap with vintage edge.",
+    "longDescription": "Soft leather, classic dial, and durable build — a perfect everyday companion. Built to look better as it ages.",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=1400&q=80"
+  },
+  {
+    "id": "p7",
+    "name": "Mania Urban Black",
+    "price": 1549,
+    "shortDescription": "Matte black look for a sharp outfit.",
+    "longDescription": "Modern urban style with a bold black finish and premium feel. Perfect for streetwear and smart casual.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1400&q=80"
+  },
+  {
+    "id": "p8",
+    "name": "Mania Signature Gold",
+    "price": 2299,
+    "shortDescription": "Gold tone with clean luxury design.",
+    "longDescription": "Luxury look with minimal dial and high-quality finishing for special occasions. Premium, tasteful, not loud.",
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=1400&q=80"
+  },
+  {
+    "id": "p9",
+    "name": "Mania Sport Edge",
+    "price": 1999,
+    "shortDescription": "Sport-inspired style with premium comfort.",
+    "longDescription": "Balanced sporty aesthetic for daily wear and weekend fits. Strong readability and premium feel.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&q=80"
+  },
+  {
+    "id": "p10",
+    "name": "Mania Steel Blue",
+    "price": 1849,
+    "shortDescription": "Blue dial with sleek steel strap.",
+    "longDescription": "Blue dial adds personality while steel strap keeps it premium and versatile. Great for day and night styling.",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=1400&q=80"
+  },
+  {
+    "id": "p11",
+    "name": "Mania Carbon Look",
+    "price": 2099,
+    "shortDescription": "Carbon-inspired dial texture.",
+    "longDescription": "Modern dial texture for people who love subtle detail and strong finishing. Clean and premium from every angle.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1400&q=80"
+  },
+  {
+    "id": "p12",
+    "name": "Mania Quartz Prime",
+    "price": 1299,
+    "shortDescription": "Reliable quartz with minimal dial.",
+    "longDescription": "Simple, dependable, and premium-looking — ideal for everyday use. A clean silhouette that looks expensive.",
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=1400&q=80"
+  },
+  {
+    "id": "p13",
+    "name": "Mania Classic Rose",
+    "price": 2399,
+    "shortDescription": "Rose tone dial with elegant contrast.",
+    "longDescription": "Classy rose tone with high-end appearance and comfortable wear. Designed to look premium under any lighting.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&q=80"
+  },
+  {
+    "id": "p14",
+    "name": "Mania Minimal White",
+    "price": 1350,
+    "shortDescription": "Clean white dial. Modern feel.",
+    "longDescription": "Minimal white dial with crisp indices for the cleanest daily look. Fresh and readable with any outfit.",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=1400&q=80"
+  },
+  {
+    "id": "p15",
+    "name": "Mania Executive Black",
+    "price": 2499,
+    "shortDescription": "Executive look with premium finish.",
+    "longDescription": "Built for formal wear — premium dial, clean detailing, and durable structure. The go-to for suits and events.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=1400&q=80"
+  }
+]

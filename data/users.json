@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u1",
+    "name": "Demo User",
+    "email": "demo@mania.com",
+    "password": "123456",
+    "provider": "credentials",
+    "role": "user"
+  },
+  {
+    "id": "f24f8978-6701-4b08-a146-0a140f9b5de0",
+    "name": "Test",
+    "email": "test@mania.com",
+    "password": "123456",
+    "provider": "credentials",
+    "role": "user"
+  },
+  {
+    "id": "f3a1fd49-4e02-4d33-8dbf-598e442cb587",
+    "name": "Sa Fa",
+    "email": "safa176168@gmail.com",
+    "password": null,
+    "provider": "google",
+    "role": "user"
+  }
+]
