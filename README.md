@@ -12,7 +12,7 @@ This API is designed to work both **locally** and in **serverless environments (
 - **Live API URL:** https://mania-server.vercel.app
 - **Health Check:** https://mania-server.vercel.app/api/health
 - **Frontend App:** https://mania-eight.vercel.app
-- **Repository:** _(add link if available)_
+
 
 ---
 
